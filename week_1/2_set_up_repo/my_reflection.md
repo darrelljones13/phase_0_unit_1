@@ -5,7 +5,7 @@
 * Describe what open source means
 *   Open source means that any user can (depending on the license) edit, share, modify the source code of software.
 * What do you think about Open Source? Does it make you nervous or protective? Does it feel like utopia?
-*   Philosophically, I love the idea of open source.  A cost-free, collaboration of programmers curating the digital world is very exciting.  What makes me uneasy is there are malicious people out there that case use the concept of open source for identity theft, malware, adware, etc.
+*   Philosophically, I love the idea of open source.  A cost-free, collaboration of programmers curating the digital world is very exciting.  What makes me uneasy is there are malicious people out there that use the concept of open source for identity theft, malware, adware, etc.
 * Assess the importance of using licenses
 *   Open source licenses are vital because they (in different ways) protect the creator and the work while maintaining the core tenets of the open source concept.  Having a clear understanding of the different licenses produces informed programmers who know exactly what their rights are.
 * What concepts were solidified in the challenge? Did you have any "aha" moments? What did you struggle with?
