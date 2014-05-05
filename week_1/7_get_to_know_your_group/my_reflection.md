@@ -4,7 +4,11 @@ Copy the email you sent to your group in this file.
 
 Hi all,
 
+<<<<<<< HEAD
 Darrell Jones here.  I'm originally from Pittsburgh, PA but currently living in Chicago.  My learning style is Visual/Kinesthetic if I remember correctly.  I've done some HTML and Actionscript years ago but for the most part, I am pretty new at this.  
+=======
+Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
+>>>>>>> FETCH_HEAD
 
 My favorite sites are:
 baseballamerica.com
