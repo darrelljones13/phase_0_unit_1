@@ -1,42 +1,42 @@
-## Release 2: Basic Git Commands
+ ## Release 2: Basic Git Commands
 Define the following commands and describe how they work/what they do.  
 
 
 #### add
-<!-- Your defnition here -->
+add files to index
 
 #### branch
-<!-- Your defnition here -->
+list all branches in your repo
 
 #### checkout
-<!-- Your defnition here -->
+checkout a branch to working tree
 
 #### clone
-<!-- Your defnition here -->
+clone a repo to a new directory
 
 #### commit
-<!-- Your defnition here -->
+updating changes to the repo
 
 #### fetch
-<!-- Your defnition here -->
+get changes from another repo
 
 #### log
-<!-- Your defnition here -->
+shows all commits to branch including who made them.
 
 #### merge
-<!-- Your defnition here -->
+join repositories together
 
 #### pull
-<!-- Your defnition here -->
+fetches files from a remote repo and merges with a local repo
 
 #### push
-<!-- Your defnition here -->
+send changes to master branch remote repo
 
 #### reset
-<!-- Your defnition here -->
+resets the index to the last commit
 
 #### rm
-<!-- Your defnition here -->
+Remove files 
 
 #### status
 
@@ -44,7 +44,10 @@ Define the following commands and describe how they work/what they do.
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+
+
 - Fetch changes
 - Commit locally
 
 ## Release 5: Reflection
+
