@@ -1,34 +1,42 @@
-// I paired [by myself, with:] on this challenge.
+// I paired with Steve Loar on this challenge.
 
 
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// Create variable secretNumber to 0
+// SET secretNumber to 7
+// Create variable password "string"
+// SET password to "just open the door"
+// Create variable allowedIn and set to false
+// Create variable members as an array
+// SET members array position 1 to "John"
+// Set members array position 4 to "Mary"
 
 
 // __________________________________________
 // Write your code below.
 
-
-
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["John", "Steve" , "Darrell", "Mary"];
 
 
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
-
+// Changes are reflected above. 
+// Changed secretNumber value from 0 to 7
+// Changed password from "string' to "just open the door"
+// Changed "Mary" position from 5 to 4 in the array
 
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
+// After pairing with Steve, I learned that this challenge was not as difficult as at first glance.  One trick he showed me was how to really use node in the terminal.  I was able to save the file and quickly see my changes.  Much easier than using the JS console in Chrome. I feel pretty confident in the learning competencies after working on this challenge.  I'm also starting to feel more comfortable with JS syntax.
 // 
 // 
 // 
