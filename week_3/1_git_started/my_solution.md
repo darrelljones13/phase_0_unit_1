@@ -36,18 +36,22 @@ send changes to master branch remote repo
 resets the index to the last commit
 
 #### rm
-Remove files 
+Removes files from the tree
 
 #### status
-
+lays out the current status of files that are untracked or modified
 
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
-
+(git push remote branch)
 
 - Fetch changes
+(git fetch upstream master)(git merge upstream master)
+
 - Commit locally
+(git commit -a -m "summary goes here")
 
 ## Release 5: Reflection
 
+Learning to use Git was incredibly challenging for me.  I have been trying out commands the last few weeks attempting to get more comfortable using them in the terminal.  I've come a long way in my overall understanding of using the commands.  The LearnGitBranching resource helped me visualize what is happening when I clone/push/pull/merge etc.  I'm still not entirely certain what is happening when I actually do it.  I've been testing out commands and seeing what happens and so far, I haven't ruined anything.  I keep pushing myself to use the terminal even though the GitHub app is pretty amazing and straightforward.  
