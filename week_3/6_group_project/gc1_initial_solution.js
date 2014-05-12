@@ -35,3 +35,7 @@ function median(array){
 }
 
 median(array);
+
+//Reflection
+
+//My group did an excellent job of creating a user story and pseudocode.  Their work made it relatively easy to code.  I'll admit I needed to tinker with the syntax on my end, especially with the median function.  My group successfully passed the tests for this challenge.  This challenge was a great learning opportunity for me.  I now understand how to create user stories and got a different perspective by translating someone else's pseudocode.  I appreciated working with Steve, David, and Maddison on this challenge.  They were all responsive, timely, and cooperative.  I'm looking forward to working with them again.
